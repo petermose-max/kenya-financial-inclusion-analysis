@@ -1,0 +1,13 @@
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+jupyter
+notebook
+jupyterlab
+numpy
+matplotlib
+seaborn
+scikit-learn
+pyreadstat
+pyarrow
