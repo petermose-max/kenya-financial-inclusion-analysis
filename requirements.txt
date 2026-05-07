@@ -8,6 +8,7 @@ jupyterlab
 numpy
 matplotlib
 seaborn
+plotly
 scikit-learn
 pyreadstat
 pyarrow
